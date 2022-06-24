@@ -3,6 +3,5 @@
 2-groups
 3-new_owner
 4-empty
-5-execute
-6-multiple_permissions
+9-John_Doe
 7-everybody

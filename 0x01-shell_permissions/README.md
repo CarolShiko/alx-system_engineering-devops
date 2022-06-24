@@ -3,5 +3,7 @@
 2-groups
 3-new_owner
 4-empty
-9-John_Doe
+11-directories_permissions
+12-directory_permissions
+13-change_group
 7-everybody

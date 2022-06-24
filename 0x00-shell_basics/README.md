@@ -8,3 +8,4 @@ o-current_working_directory
 7-movethatfile
 8-first delete
 9-firstdirdeletion
+10-back
